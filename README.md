@@ -133,13 +133,30 @@ I design and ship complete mobile products, from the database schema to the app 
 - **Multilingual and RTL apps** (Arabic · French · English)
 - **Store publishing** and post-launch maintenance
 
-## 📬 Contact
+## 👨‍💻 About the Developer
 
-**Oussama Mohamed El Hadi** — Flutter & Supabase developer
+Built by **Oussama Mohamed El Hadi** — a full-stack developer building clean, cross-platform apps for **Web, iOS & Android** with Flutter & Supabase. **Mauri-Citat** is a real, shipped product — from database design and Row-Level Security to SMS/WhatsApp integrations and a polished, trilingual UI.
 
-- 💼 **Upwork:** [Hire me on Upwork](YOUR_UPWORK_PROFILE_URL)
-- 📲 **Try the app:** [Google Play](https://play.google.com/store/apps/details?id=engs.mauri.citat) · [App Store](https://apps.apple.com/app/id6772883634)
+**Available for freelance work.** I build Flutter + Supabase apps from idea to App Store / Play Store — including UI/UX, custom branding, backend and release.
+
+<div align="center">
+
+[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01825ff64c8093996f?mp_source=share)
+[![Hire Me](https://img.shields.io/badge/HIRE%20ME-4CAF50?style=for-the-badge)](https://www.upwork.com/freelancers/~01825ff64c8093996f?mp_source=share)
+[![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/s/Vrrklkz)
+[![Order Now](https://img.shields.io/badge/ORDER%20NOW-1DBF73?style=for-the-badge)](https://www.fiverr.com/s/Vrrklkz)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oussama.mohamedelhadi@gmail.com)
+[![Contact](https://img.shields.io/badge/CONTACT-EA4335?style=for-the-badge)](mailto:oussama.mohamedelhadi@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/osmsmix)
+[![@osmsmix](https://img.shields.io/badge/@osmsmix-181717?style=for-the-badge)](https://github.com/osmsmix)
+
+</div>
+
+> 📲 **Try it:** [Google Play](https://play.google.com/store/apps/details?id=engs.mauri.citat) · [App Store](https://apps.apple.com/app/id6772883634)
+> Other shipped apps: [Madrasa](https://github.com/osmsmix/Madrasa), PetroTools.
 
 ---
 
-<div align="center"><sub>© Mauri-Citat. Screenshots show test data.</sub></div>
+<div align="center">
+<sub>Built with Flutter & Supabase · Arabic · French · English · © Mauri-Citat · Screenshots show test data</sub>
+</div>
